@@ -1,0 +1,16 @@
+{
+  "project": "fraudy",
+  "kb_version": "v1",
+  "runtime_root": "knowledge_base/bedrock_fraud_detection_en/runtime_kb",
+  "internal_docs_root": "knowledge_base/bedrock_fraud_detection_en/internal_docs",
+  "total_runtime_markdown_files": 41,
+  "total_metadata_sidecar_files": 41,
+  "missing_metadata_files": [],
+  "invalid_yaml_files": [],
+  "recommended_s3_prefix": "s3://<bucket-name>/fraudy-kb/v1/runtime_kb/",
+  "excluded_from_runtime": [
+    "00_manifest",
+    "04_bedrock_ingestion",
+    "README.md"
+  ]
+}
