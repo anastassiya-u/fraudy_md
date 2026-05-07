@@ -1,0 +1,19 @@
+{
+  "metadataAttributes": {
+    "project": "fraudy",
+    "kb_version": "v1",
+    "doc_type": "source_extraction",
+    "primary_channel": "web_page",
+    "primary_risk_domain": "fake_review",
+    "language": "en",
+    "region": "global",
+    "source_kind": "unknown",
+    "source_reliability": "unknown",
+    "runtime_use": true,
+    "safe_use": "defensive_only",
+    "contains_examples": false,
+    "contains_policy": false,
+    "contains_legitimate_contrast": true,
+    "last_reviewed": "2026-05-07"
+  }
+}
